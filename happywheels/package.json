@@ -1,1 +1,3 @@
-{"name":"@ruffle-rs/ruffle","version":"0.1.0-nightly.2023.03.10","description":"Putting Flash back on the web. Ruffle will polyfill all Flash content and replace it with the Ruffle flash player.","license":"(MIT OR Apache-2.0)","keywords":["flash","swf"],"homepage":"https://ruffle.rs","bugs":"https://github.com/ruffle-rs/ruffle/issues","repository":"github:ruffle-rs/ruffle","main":"ruffle.js"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99d8e07e65b3c84eeacc9b8c3d161ff849f94e2366bf121949496c1c7360a7f
+size 396
